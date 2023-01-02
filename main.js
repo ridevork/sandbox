@@ -1,1 +1,1 @@
-alert('You successfully linked your JavaScript file!');
+//alert('You successfully linked your JavaScript file!');
